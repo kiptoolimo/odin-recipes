@@ -1,0 +1,36 @@
+body{
+    background-color:white;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    font-size: xx-large;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    color: black;
+}
+
+.list{
+display: inline-block;
+text-align: left;
+}
+
+.githeri{
+margin: 16px;
+padding: 8px;
+background-color: red;
+}
+
+.mukimo{
+margin: 16px;
+padding: 8px;
+background-color: black;
+}
+
+.mursik{
+margin: 16px;
+padding: 8px;
+background-color: green;
+}
